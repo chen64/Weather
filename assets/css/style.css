@@ -1,0 +1,96 @@
+h1 {
+  text-align: center;
+}
+
+body, html {
+  height: auto;
+  background-color: rgb(179, 179, 179);
+  background-image: url("../images/background2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#whatWeather {
+  background: rgba(245, 162, 19, 0.756);
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("../images/travelbg4.jpg");
+
+  /* Full height */
+  height: auto;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}        
+
+#weather-background{
+  background-size: cover;
+}
+
+#zipCodeForm {
+  float: right;
+}
+
+#jjjumbotron2 {
+  border: 2px solid rgb(255, 255, 255);
+  background: rgba(245, 162, 19, 0.756);
+  margin: auto; 
+  padding: 26px;
+}
+
+#jjjumbotron3 {
+  border: 2px solid rgb(255, 255, 255);
+  background: rgba(245, 162, 19, 0.756);
+  margin: auto; 
+  padding: 44px;
+  background-image: url("../images/weatherfiller3.jpg");
+
+  /* Full height */
+  height: auto;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-header {
+  background: rgba(245, 162, 19, 0.756);
+}
+
+#restaurantResults {
+  background: rgba(222, 224, 233);
+  width: 100%;
+  height: 500px;
+}
+
+#selectCard {
+  background: rgba(245, 162, 19, 0.756);
+}
+
+#city{
+  font-size: 30px;
+}
+
+#wIcon{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  
+}
+#events-header {
+  background: rgba(245, 162, 19, 0.756);
+  color: white;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+#restaurantResults {
+  border: 2px solid rgb(255, 255, 255);
+  background: rgba(245, 162, 19, 0.756);
+}
